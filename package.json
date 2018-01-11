@@ -1,6 +1,6 @@
 {
   "name": "express-api-methods",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of methods that are being used for express api handling (like get, post, put, ...)",
   "keywords": ["express", "api", "app", "http", "methods", "express api methods"],
   "main": "index.js",

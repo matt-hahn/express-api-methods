@@ -24,5 +24,4 @@ module.exports = [
   'trace',
   'unlock',
   'unsubscribe',
-  'use',
 ]

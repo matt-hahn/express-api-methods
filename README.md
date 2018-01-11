@@ -29,7 +29,6 @@ List of methods that are being used for express api handling:
 * trace
 * unlock
 * unsubscribe
-* use
 
 ## Install
 
@@ -72,7 +71,6 @@ console.log(methods)
   'trace',
   'unlock',
   'unsubscribe',
-  'use',
 ]
 */
 ```
